@@ -8,6 +8,8 @@
 -->
 
 # Communicate using Markdown
+## THIS IS A H2 HEADER
+### THIS IS A H3 HEADER
 
 _Organize ideas and collaborate using Markdown, a lightweight language for text formatting._
 
